@@ -1,0 +1,10 @@
+PODS:
+  - PaddedView (1.0.1)
+
+DEPENDENCIES:
+  - PaddedView
+
+SPEC CHECKSUMS:
+  PaddedView: 382fbb44cf3c2b0f3cc5d74c8dd83e40abbd6d04
+
+COCOAPODS: 0.39.0
